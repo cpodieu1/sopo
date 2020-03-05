@@ -1,1 +1,3 @@
-# sopo
+# maven-project
+
+Simple Maven Project
